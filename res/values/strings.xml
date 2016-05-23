@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StrongAuth</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_scan">Scan</string>
+    <string name="phone_id_text">Enter your phone ID</string>
+    <string name="phone_id_button">Set Phone ID</string>
+
+</resources>
